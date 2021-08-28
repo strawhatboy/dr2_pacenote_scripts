@@ -1,4 +1,5 @@
 @author 草帽不是猫
+# 地图有5个偷鸡点！！
 -2,start_stage
 3,6_left/50/turn,6_right/over_crest
 60,6_left/50
@@ -17,13 +18,15 @@
 1429,into,5_left/dont_cut/opens/long,into,6_left
 1490,30
 1640,4_right/long/tightens/over_crest/50
-1850,4_left/dont_cut,into,6_right
+# 偷鸡 1
+1850,5_left/outtrack,into,6_right
 1965,into,6_left/long/30
 2090,6_right/over_crest/opens/extra_long,into/slow
 2150,6_left/long/bumps
 2387,into,3_right/over_crest/bumps
 2489,into,4_left/long,into/turn,1_right/opens/long,tarmac
-2628,dont_cut/bales,keep_right/30/turn,1_right
+# 偷鸡 2
+2628,dont_cut/bales,keep_right/30/turn,1_right/outtrack
 2760,opens/over_crest/gravel
 2790,50
 2820,5_left
@@ -34,7 +37,8 @@
 3246,4_right/extra_long/opens/over_crest,into,6_left
 3587,into,6_right
 3639,into,caution,5_left/over_jump/50
-3828,6_left/longlong/tightens/bumps/50
+# 偷鸡 3
+3828,6_left/longlong/tightens/bumps/50/outtrack
 4010,4_right/long
 4119,into,slow,6_left/over_crest/30,turn,1_left/dont_cut
 4288,30,6_left/100
@@ -57,8 +61,10 @@
 6889,4_left/extra_long/tightens,turn,5_left/opens/80
 7249,4_left/bales/dont_cut
 7352,30,turn/unseen,2_left/around_bales/cobble
+# 偷鸡 4
 7486,3_right/dont_cut/outtrack,turn,1_right/tightens/around_bales/cobble
 7580,30,1_right,2_left/dont_cut
+# 偷鸡 5
 7650,40,turn,3_left/outtrack/tarmac
 7697,keep_left/160
 7766,turn,unseen,3_right/long/dont_cut/tightens_to_2
