@@ -57,6 +57,7 @@
 5206,into,4_right/long/opens/30
 # Camino de acantilados y rocas end
 5325,caution,2_left/narrows
+# La Merced start
 5437,60/bumps,into,4_right/30
 5558,1_right/long/opens,into,4_right
 5705,into,3_left/dont_cut
@@ -92,5 +93,6 @@
 8177,30/over_jump
 8200,caution,4_left
 8252,end_stage
+# La Merced end
 
 
