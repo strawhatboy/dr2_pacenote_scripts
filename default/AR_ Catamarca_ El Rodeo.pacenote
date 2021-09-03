@@ -1,0 +1,41 @@
+@author 草帽不是猫
+# EI Rodeo start
+-2,start_stage
+1,30,3_left/long,into,5_right/opens/over_crest
+107,30/over_bumps,4_right/long/opens/over_crest,and,bumps
+245,into,4_left,into,dont_cut,hairpin_right
+306,into,5_left 
+400,30/over_bumps,dont_cut,6_right,into,1_left/long
+511,and,keep_right,into,dont_cut,4_left
+563,into,5_right/30
+637,3_left
+653,6_right/30/over_bumps
+734,slow,5_left,into,unseen,hairpin_right
+790,into,1_left
+877,30/over_bumps,4_left/long/over_crest/30
+958,open_hairpin_left
+1016,into,5_right/long/tightens,open_hairpin_right/dont_cut/long
+1158,30,unseen,hairpin_left
+1217,opens,into,1_right/opens
+1308,into,2_right/30
+1368,2_right/long/tightens,turn,1_left
+1477,into,2_right/long/tightens_to_1
+1557,into,1_left/extra_long/opens/and/tightens
+1627,into,5_right/long
+1733,into,2_left/small_cut
+1783,30
+1812,4_right/dont_cut
+1900,into,2_left/long/tightens/50 
+1987,keep_left/over_crest,into,5_right/dont_cut/30
+2109,5_right/long/tightens_to_1
+2161,into,2_left/long/opens
+2278,into,6_left/over_crest/30/unseen,1_right/long/tightens
+2439,50
+2465,keep_left,into,4_right/dont_cut
+2529,into,4_left/extra_long/tightens_to_2/tightens
+2597,30
+2679,3_left/long/70/over_bumps
+2792,keep_left,into,3_right/tightens
+2839,30,finish
+2845,end_stage
+# EI Rodeo end
