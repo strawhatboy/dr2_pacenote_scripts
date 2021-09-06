@@ -1,0 +1,57 @@
+@author 草帽不是猫
+-2,start_stage
+2,6_left/long/opens,into,caution,5_right/over_crest,and,narrows,bridge,into,1_left/tightens/small_cut/30
+138,4_right/tightens
+165,into,5_left
+244,into,2_right/long/tightens
+285,into,1_left/long/opens,caution,tightens,over_bridge/narrows
+382,into,3_left
+415,30
+443,and,1_right/tightens
+504,into,2_left
+533,50/over_bridge/narrows
+572,into,3_right/dont_cut/tightens,into,3_left/tightens
+# 偷鸡点1
+668,into,4_right/long/tightens/outtrack,into,1_left/tightens
+758,into,1_right/long
+833,into,3_left
+866,into,1_right/dont_cut/tightens
+918,into,1_left/tightens
+989,30
+1022,2_right/tightens,into,3_left/long/over_crest
+1109,into,caution,dont_cut,3_right/over_bridge/narrows
+1178,keep_left/30,into,1_right/tightens
+1247,into,6_left
+1277,into,caution,2_right/long/tightens/over_bridge/narrows
+1330,2_right/dont_cut/50
+1373,unseen,open_hairpin_left
+1511,100
+1565,6_left/long/50
+1645,6_right/over_crest,into,narrows,5_left
+1829,into,2_right/tightens
+1883,into,2_left/tightens_to_1
+1987,into,2_right/long/opens/30
+# 偷鸡点2
+2046,2_right/long/tightens_to_1/long/outtrack
+2115,50
+2167,keep_left,into,unseen,open_hairpin_left
+2236,30
+2323,keep_left,into,6_right
+2357,into,1_left/tightens
+2437,into,2_right/long
+2519,30
+2557,6_right,into,6_left
+2619,30,caution,2_left/over_crest/narrows
+2769,into,6_right,into,caution,unseen,1_left/tightens/narrows
+2902,into,1_right/tightens/30
+2945,3_left/long
+2968,into,dont_cut,1_right
+3022,opens,4_right/long
+3094,into,5_left/long/tightens,1_left/dont_cut
+3221,into,2_right/long/tightens_to_1
+3294,opens
+3322,3_right/long
+3371,into,dont_cut,open_hairpin_left
+3439,50/finish
+3493,end_stage
+#Huillaprima end
