@@ -1,4 +1,12 @@
-left
+@author 草帽不是猫
+-2,start_stage
+1,crest,30
+16,crest,and,dont_cut,3_right,long,tightens
+97,into,3_left,over_crest,long,tightens
+189,30
+229,3_right,long,tightens,over_crest
+267,30
+423,dont_cut,open_hairpin_left
 466,opens
 557,into,keep_middle,over_crest
 603,into,6_left
