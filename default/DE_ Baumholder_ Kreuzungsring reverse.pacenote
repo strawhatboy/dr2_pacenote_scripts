@@ -14,10 +14,10 @@
 1835,small_crest/50/square_right/dont_cut
 2072,30/unseen/30/square_right/dont_cut/opens/50
 2174,flat/crest/80
-2242,flat/6_left/and/4_right/crest/100
+2242,flat/6_left,and/4_right/crest/100
 2549,5_left/50/4_right/crest
-2816,into/4_left/tightens/into/4_right/opens/crest/into/5_left/crest
-3066,into/small_crest/5_right/and/around_bales/hairpin_left
+2816,into/4_left/tightens,into/4_right/opens/crest,into/5_left/crest
+3066,into/small_crest/5_right,and/around_bales/hairpin_left
 3267,200/flat/jump/80/6_left/opens/150
 3640,then/unseen/1_left/dont_cut
 3787,into/5_right/opens/130/dont_cut/5_right/40
@@ -28,5 +28,5 @@
 5006,slow/50/square_right/100
 5241,slow/5_left/unseen/1_left
 5384,opens/50
-5432,4_right/and/120/deepruts/unseen/1_left/dont_cut
+5432,4_right,and/120/deepruts/unseen/1_left/dont_cut
 5665,end_stage

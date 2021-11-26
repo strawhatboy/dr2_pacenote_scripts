@@ -1,7 +1,7 @@
 @author 草帽不是猫
 # 地图有5个偷鸡点！！
 -2,start_stage
-3,6_left/50/turn,6_right/over_crest
+3,6_left/50,turn,6_right/over_crest
 60,6_left/50
 119,flat/keep_middle/over_crest/80
 200,keep_middle/over_jump/50
@@ -24,9 +24,9 @@
 2090,6_right/over_crest/opens/extra_long,into/slow
 2150,6_left/long/bumps
 2387,into,3_right/over_crest/bumps
-2489,into,4_left/long,into/turn,1_right/opens/long,tarmac
+2489,into,4_left/long,into,turn,1_right/opens/long,tarmac
 # 偷鸡 2
-2628,dont_cut/bales,keep_right/30/turn,1_right/outtrack
+2628,dont_cut/bales,keep_right/30,turn,1_right/outtrack
 2760,opens/over_crest/gravel
 2790,50
 2820,5_left
