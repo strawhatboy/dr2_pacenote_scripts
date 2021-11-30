@@ -1,0 +1,65 @@
+@author Silenig
+-2,start_stage
+4,50
+20,6_left/30,turn,square_right
+86,into,3_left/long/opens/over_crest,into,5_right/long/tightens_to_2
+184,opens/over_crest
+343,into,4_left
+399,5_right
+451,into,4_left/dont_cut
+508,into,3_right/tightens
+567,into,5_left/long/tightens_to_4
+694,into,4_right/over_crest/long/tightens/into/tarmac
+779,5_left/long
+885,80
+926,gravel
+962,flat/keep_middle/over_jump/80
+1076,through_grid/and,3_right/long  # grid
+1212,into,3_left/long/tightens
+1268,30
+1315,crest,and/jump/through_narrow_gate,into,4_right/long
+1457,opens
+1493,80
+1560,flat/keep_middle/over_crest/very_long  # over very long crest
+1631,50
+1698,6_right
+1794,80
+1856,6_right/over_crest/long/tightens  # over long crest
+1965,into,5_left/long/tightens/over_crest
+2127,into,5_right/over_crest
+2211,into,6_left/long
+2308,into/caution,5_right/over_crest,into/dont_cut,2_left/tightens/narrows
+2510,into,6_right
+2553,into,2_left/tightens
+2635,into,3_right/tightens/long/30,5_left
+2797,30
+2846,flat/keep_middle/over_jump
+2883,30
+2915,4_right/long
+3003,opens,into,6_left/opens/over_crest,caution/30,1_left/tightens/dont_cut
+3207,into,6_right/over_crest
+3259,into,3_left
+3306,into,5_right/long/over_crest/tightens_to_3
+3434,into,5_left
+3490,30
+3513,crest
+3540,into,4_left/long
+3664,into,4_right/long/opens
+3776,go_straight/pass_junction  # straight over junction
+3811,into,4_left/tightens/over_crest
+3898,into,5_right
+3963,6_left
+3990,30
+4032,keep_left/over_jump,into,6_right
+4102,30
+4156,into/keep_middle/over_crest/into,3_right/tightens/over_crest
+4306,into,5_left
+4369,5_right
+4405,keep_middle/crest/40,3_left/over_crest/extra_long/50
+4660,5_right/over_crest,into/keep_middle/over_jump
+4809,30
+4865,slow,6_right/over_crest,into,1_left
+5005,into,2_right/long/tightens,square_right/over_crest
+5107,into,1_left/long/tightens
+5182,60/finish/into,6_right/over_crest/30
+5278,end_stage
