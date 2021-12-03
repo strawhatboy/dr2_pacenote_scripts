@@ -1,0 +1,86 @@
+@author Silenig
+-2,start_stage
+3,100,6_left/over_small_crest/60/small_crest/50,4_right/over_dip
+172,70,3_left/over_crest
+260,70
+293,long_crest/continues/100,and/jump
+388,into,6_right/over_dip/tightens_to_4/extraextra_long
+540,50
+575,flat_left/over_crest
+623,into,6_right/over_dip
+678,5_left/over_crest/logs_inside/tightens_to_4
+818,50/keep_left/over_jump
+888,50,6_right/long/tightens/70,6_left/tightens/over_crest
+1059,into,5_right/tightens/over_dip
+1144,40
+1173,3_left/over_crest
+1254,into,5_right/over_crest
+1302,6_right/over_crest/long
+1363,into,6_left/over_crest
+1403,50,3_right/over_dip/tightens
+1517,into,5_left/opens
+1555,keep_middle/over_crest/60
+1603,6_right/long/tightens/short,3_right  # short 3
+1686,into,3_left/opens/long,into/keep_middle/over_crest
+1767,and,5_right/long/tightens_to_3/logs_outside/opens_to_6
+1933,and/keep_left/over_crest/60
+1984,3_left/over_crest/60
+2067,3_left/dont_cut/very_long/opens_to_6
+2191,100
+2236,6_left/over_crest
+2304,70/keep_middle/over_jump
+2380,80
+2412,short,4_right
+2476,80/over_bumps
+2541,3_left/tightens
+2607,60
+2644,4_right/tightens,into/keep_middle/over_crest,caution,3_left/long
+2803,70,6_right/tightens,3_right
+2886,60/keep_left/over_crest,and,5_right/tightens
+2997,into,6_left/very_long/opens/keep_right/over_crest/70
+3161,into,6_right/very_long/tightens/short,4_right  # short 4
+3324,into,6_left/keep_in/over_crest
+3424,and,keep_right/over_crest
+3467,into,6_left/opens
+3518,60
+3543,turn,3_left/dont_cut
+3647,and,keep_middle/over_crest/long,into,4_right  # over long crest
+3741,70,flat_left
+3808,into/unseen,5_right/extra_long/over_small_crest
+3904,40
+3938,6_left/tightens/short,5_left/over_bumps  # short 5
+4032,40,3_right/opens_to_6/extraextra_long/over_bumps/big_crest
+4183,into,caution/keep_right/over_crest/jump
+4244,into,4_left/long/tightens/short,3_left  # short 3
+4330,and,3_right/over_crest/40
+4402,3_left/very_long/tightens  # pass lin?
+4473,short,4_right,into,6_left/over_bumps
+4540,into/keep_right/over_bumps/100
+4614,keep_middle/over_jump/maybe
+4664,into,6_right/over_bumps/tightens
+4733,into,4_left/over_small_crest/50,3_right
+4875,40,3_left,into,5_right/long/opens/keep_middle/over_crest
+4999,80
+5027,6_left/over_small_crest
+5080,into,6_right
+5121,keep_middle/over_jump/50,5_left/over_bumps/opens/50
+5296,keep_middle/over_jump/80,6_right/very_long/tightens/dont_cut,3_right/rocks_inside
+5533,70
+5567,4_left/long/tightens_to_3/over_crest
+5659,50,5_right/and/keep_middle/over_crest
+5752,30,4_right/long/tightens/keep_middle/over_crest/bumps
+5873,40,4_left/tightens/over_crest
+5946,slow,6_right,into,3_left/tightens_to_1/very_long/opens/through_logs/keep_in  # pass logs
+6097,40
+6114,flat_right/keep_left/over_small_crest,caution/tightens,3_left/tightens
+6233,into,4_right/opens/long,caution/tightens_to_1/extra_long/tightens
+6356,30,3_left/long
+6386,and,5_right/long/tightens/over_bumps
+6442,40,4_left/over_crest/tightens/through_logs/keep_in,into,4_right/slow,4_left/tightens_to_2/extra_long/opens_to_6/long/tightens  # pass logs
+6737,50,5_right/over_crest
+6794,keep_left/60/slow,4_right/over_crest/tightens_to_2
+6894,opens
+6925,6_right/very_long
+6983,into/keep_right/80,3_left/opens/finish
+7070,200
+7145,end_stage

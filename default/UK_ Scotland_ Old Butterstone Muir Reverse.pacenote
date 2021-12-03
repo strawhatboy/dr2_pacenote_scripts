@@ -1,0 +1,76 @@
+@author Silenig
+-2,start_stage
+3,keep_right/80,3_left/opens  # over 80
+88,200/downhill/bumps
+142,slow,turn,square_left/dont_cut/rocks_inside
+302,into,5_left/very_long/tightens_to_4
+352,50
+392,5_right/opens_to_6/over_small_crest
+472,70
+504,6_left/over_small_crest
+570,170
+651,3_right/extra_long/tightens
+805,3_left/very_long/opens,and/tightens,into/keep_middle/over_small_crest
+954,into/keep_middle/100  # over 100
+1020,4_left/long/tightens/short,3_left  # short 3
+1112,90/over_bumps
+1158,3_right/tightens
+1209,into/crest,into,flat_left,into/keep_middle/over_bumps/70
+1317,4_left/tightens/30/short,3_right,into,5_left,into,6_right/tightens/short,4_right  # short 4
+1507,into,5_left/long/tightens
+1572,into,5_right/opens
+1628,60,flat_right,into,5_left
+1714,into,6_right/opens,and/tightens
+1804,5_right/long/over_crest/keep_in
+1869,60/slow/short,6_left
+1938,50
+1968,open_hairpin_left
+2022,long,and/opens_to_4/tightens
+2102,30,hairpin_right/uphill
+2181,40
+2193,flat_right
+2209,40
+2227,short,4_right/50,caution/early,3_left/keep_in/over_crest/opens/70
+2362,5_right/tightens
+2402,into,6_left/over_crest/keep_in
+2458,into,6_right/tightens/long
+2528,into,3_left/long/tightens/over_crest/100
+2632,short,6_left,into/short,6_right
+2709,into/keep_left/120  # over 120
+2769,6_right/40
+2831,caution,6_left/over_bumps/tightens/narrows
+2941,into,6_right
+2984,70/bumps
+3048,6_left,into/short,5_right,into/short,4_left
+3204,keep_right/80
+3269,keep_left/over_bumps,into/short,3_right
+3384,and,3_left/tightens/over_crest  # end:neat?
+3442,into,4_right/long/tightens
+3488,into/short,5_left
+3523,100,6_left/tightens_to_4/over_dip
+3635,60,2_right,into,1_left/over_crest
+3832,and,4_right/tightens_to_2/dont_cut
+3908,and/caution,1_left/deceptive/over_crest/keep_in
+3966,into,4_right/opens_to_6/very_long,caution/tightens
+4036,into/deceptive,1_left/over_small_crest
+4116,and,3_right/tightens_to_2/dont_cut
+4172,into,2_left/long/dont_cut
+4207,60,4_right/tightens/over_small_crest
+4271,70/over_bumps
+4313,5_left/long/over_crest/opens
+4381,into/keep_middle/over_crest/long/60
+4463,keep_right,into/keep_middle/over_crest
+4536,dip/keep_right  # through dip
+4604,into,4_left/opens/long
+4712,70
+4740,short,6_left/and/short,4_right
+4823,caution/keep_right/70,3_left
+4995,keep_left/80,3_right/tightens
+5089,70,3_left,caution/tightens/over_crest/keep_in
+5169,5_right/tightens/short/4_right/over_crest/bumps/30/short,5_left,into,6_right/slow/keep_left/over_crest,2_right/opens  # short 4
+5396,30,3_left/opens/very_long
+5472,60
+5493,early,4_left/over_crest/long,caution/tightens  # end:pass lin?
+5590,into,6_right/finish
+5643,60/keep_right/over_crest
+5660,end_stage
