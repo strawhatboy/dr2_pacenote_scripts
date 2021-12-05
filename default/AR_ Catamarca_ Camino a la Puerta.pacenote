@@ -35,8 +35,8 @@
 2529,into,4_left/extra_long/tightens_to_2/tightens
 2597,30
 2679,3_left/long/70/over_bumps
-2792,keep_left,into,3_right/tightens
-2839,30,finish
+2792,keep_left,into,3_right/tightens/
+2839,30
 # EI Rodeo end
 2908,5_left/long/tightens,into,5_right/long
 2972,30
