@@ -43,6 +43,6 @@
 4374,4_right/over_crest/jump
 4444,into,6_left/long/opens/100
 4520,uphill
-4563!very/early,6_right/over_crest/jump
+4563,early,6_right/over_crest/jump  # very early
 4642,and,5_left/very_long/tightens_to_3/finish/very_long
 4861,end_stage
