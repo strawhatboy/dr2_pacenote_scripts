@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 # Kopina start
 3,6_left/50,turn,6_right/over_crest
 60,6_left/50
@@ -125,4 +125,4 @@
 16120,6_left/over_crest/long/opens/80
 16219,5_right/over_dip
 # Borysik end
-16470,end_stage
+

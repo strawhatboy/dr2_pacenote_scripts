@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 2,200
 20,flat/crest/30
 54,5_right
@@ -103,4 +103,4 @@
 11143,unseen,1_left/tightens/over_crest
 11357,6_right
 11396,opens_to_flat/over_crest,into,6_left/100/finish
-11550,end_stage
+

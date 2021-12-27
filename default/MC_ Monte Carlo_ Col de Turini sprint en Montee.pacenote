@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,slow,3_left/long/tightens,open_hairpin_left
 134,into,6_right
 159,opens/over_crest/slow/keep_left/60/crest,into/unseen,hairpin_right/long
@@ -63,4 +63,4 @@
 4575,crest,and,turn,5_right
 4667,finish/30
 4695,turn,1_left
-4730,end_stage
+

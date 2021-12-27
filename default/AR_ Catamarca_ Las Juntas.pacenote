@@ -1,6 +1,6 @@
 @author 草帽不是猫
 # Camino de acantilados y rocas start
--2,start_stage
+
 3,30,4_left/opens/50
 40,keep_right/over_jump/maybe,into,6_left/30
 144,slow,4_left,into,unseen,1_right/opens
@@ -92,7 +92,7 @@
 8076,into,2_left/long/tightens/over_crest/finish
 8177,30/over_jump
 8200,caution,4_left
-8252,end_stage
+
 # La Merced end
 
 

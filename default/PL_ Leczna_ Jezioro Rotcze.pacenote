@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 2,and,turn,1_right/tightens/gravel,into,4_left/long/30
 86,4_right/long/tightens/over_crest
 140,into,6_left/50
@@ -112,4 +112,4 @@
 12902,flat_right,into/keep_left/over_crest/40
 13085,6_left/finish
 13184,70
-13297,end_stage
+

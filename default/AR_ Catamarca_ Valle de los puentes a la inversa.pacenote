@@ -1,5 +1,5 @@
 @author 草帽不是猫	
--2,start_stage
+
 #San Isidro start
 2,60,unseen,4_left/small_cut
 31,50
@@ -101,5 +101,5 @@
 7757,3_right/long
 7806,into,dont_cut,open_hairpin_left
 7874,50/finish
-7928,end_stage
+
 #Huillaprima end

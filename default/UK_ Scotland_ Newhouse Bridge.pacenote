@@ -1,5 +1,5 @@
 @author o.z.
--2,start_stage
+
 8,6_left/opens/extra_long
 50,caution/slow,into,turn,1_right/uphill
 112,opens
@@ -171,4 +171,4 @@
 12695,into,6_left
 12710,opens,and/tightens,into,5_left/finish/extra_long
 12842,tightens_to_3,50
-12857,end_stage
+

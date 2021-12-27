@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 2,3_right/over_crest/opens/keep_left/60,5_left/50
 120,keep_middle/over_jump/90,6_right/tightens_to_3/over_crest
 385,into,4_left/over_crest/60
@@ -52,4 +52,4 @@
 5414,5_right,into/early,4_left/opens/100
 5594,keep_left/over_jump/finish
 5648,into,2_right/tightens
-5740,end_stage
+

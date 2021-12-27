@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,flat/crest/50,6_right,into,6_left/over_crest/extra_long
 171,60
 224,keep_right/over_crest,caution/slow/keep_right/50,turn,1_left/unseen
@@ -69,4 +69,4 @@
 8863,dont_cut,1_right/around_bales,into,turn/dont_cut,1_left/cobble/slippery
 8937,and,hairpin_left/dont_cut
 9033,into,3_right,3_left/slippery/dont_cut,3_right/opens/long/30/finish/70
-9256,end_stage
+

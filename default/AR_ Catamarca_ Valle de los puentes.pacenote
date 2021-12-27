@@ -1,6 +1,6 @@
 @author 草帽不是猫
 #Miraflores start
--2,start_stage
+
 3,60,open_hairpin_right/tightens
 48,into,1_left/extra_long
 241,into,1_right/tightens
@@ -97,6 +97,6 @@
 7124,30
 7329,5_left/long/opens,into,6_right/outtrack
 7575,finish/50
-7666,end_stage
+
 #Camino a Coneta end
 

@@ -1,5 +1,5 @@
 @author O.Z.
--2,start_stage
+
 14,40
 26,3_right
 41,6_right,opens,extra_long
@@ -225,7 +225,7 @@
 12812,50,and,1_left,logs_inside
 12898,6_right,finish
 12961,4_right
-12998,end_stage
+
 
 
 

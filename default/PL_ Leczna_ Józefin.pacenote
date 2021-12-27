@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,6_right/opens/long/over_crest,into/slow/tarmac/50,turn,1_left/opens/dont_cut/long
 225,160/dont_cut,2_right/around_bales
 282,50
@@ -73,4 +73,4 @@
 7789,flat/crest/50
 7861,5_right,turn,4_left/tarmac
 8009,into,6_right/finish
-8160,end_stage
+

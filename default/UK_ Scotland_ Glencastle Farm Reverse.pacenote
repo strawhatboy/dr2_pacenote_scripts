@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 2,crest/slow/70,turn/early/short,square_right/opens/long,and/tightens,6_right/over_crest  # tightens 6
 158,80
 190,3_left/tightens/over_crest
@@ -72,4 +72,4 @@
 5068,turn,1_left/keep_in
 5134,into,6_right/extraextra_long/finish
 5204,tightens,4_right
-5238,end_stage
+

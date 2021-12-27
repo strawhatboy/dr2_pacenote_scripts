@@ -1,5 +1,5 @@
 @author 草帽不是猫	
--2,start_stage
+
 2,3_right
 5,into,3_left/long
 35,into,unseen,1_right/tightens
@@ -44,4 +44,4 @@
 3539,30
 3744,5_left/long/opens,into,6_right/outtrack
 3990,finish/50
-4081,end_stage
+

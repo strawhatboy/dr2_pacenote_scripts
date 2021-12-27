@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 13,100
 43,through_grid  # grid
 69,6_left/very_long/over_crest/30
@@ -69,4 +69,4 @@
 6753,6_right
 6778,into,4_left/tightens
 6886,60/finish/into/crest
-7007,end_stage
+

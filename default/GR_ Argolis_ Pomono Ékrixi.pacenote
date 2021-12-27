@@ -1,5 +1,5 @@
 @author 含蓄
--2,start_stage
+
 3,and,5_right/very_long
 47,into,6_left/over_jump
 107,80/downhill,6_right/over_dip
@@ -77,4 +77,4 @@
 4809,over_crest/jump/slow/100,turn/unseen,open_hairpin_right
 4984,tightens/pass_junction/finish/60
 5052,6_left/keep_left/80,5_right
-5086,end_stage
+

@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 1,50,2_left/long/opens/over_crest,into/narrows/bridge/tarmac
 81,into,2_right/long/opens/bad_camber
 98,40
@@ -66,4 +66,4 @@
 6575,4_left/long/tightens
 6620,opens/over_crest/30/keep_left/long_crest/30
 6785,5_right/long/slow/30,turn,unseen,square_right,finish
-6950,end_stage
+

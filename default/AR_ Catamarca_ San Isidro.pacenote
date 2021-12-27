@@ -1,5 +1,5 @@
 @author 草帽不是猫	
--2,start_stage
+
 2,60,unseen,4_left/small_cut
 31,50
 98,5_right
@@ -40,4 +40,4 @@
 3905,into,open_hairpin_left/tightens/over_crest/bumps
 4030,5_right/long/tightens_to_1
 4079,opens,and,tightens/over_crest/finish
-4170,end_stage
+

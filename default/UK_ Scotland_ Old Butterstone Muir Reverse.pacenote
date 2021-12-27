@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,keep_right/80,3_left/opens  # over 80
 88,200/downhill/bumps
 142,slow,turn,square_left/dont_cut/rocks_inside
@@ -73,4 +73,4 @@
 5493,early,4_left/over_crest/long,caution/tightens  # end:pass lin?
 5590,into,6_right/finish
 5643,60/keep_right/over_crest
-5660,end_stage
+

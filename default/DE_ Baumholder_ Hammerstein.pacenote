@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 1,60
 18,flat_left/over_crest/130,turn,3_right/opens/over_crest/30
 222,turn,square_right/dont_cut
@@ -91,4 +91,4 @@
 10594,50
 10620,flat/crest/150/finish
 10707,80
-10790,end_stage
+

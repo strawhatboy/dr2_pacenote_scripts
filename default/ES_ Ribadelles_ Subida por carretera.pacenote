@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,50
 6,5_left
 10,into,4_right
@@ -73,4 +73,4 @@
 4236,30
 4270,6_right/long/finish
 4345,80
-4383,end_stage
+

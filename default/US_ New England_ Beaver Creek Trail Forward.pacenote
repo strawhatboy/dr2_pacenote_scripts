@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 13.92730941671644,6_left/opens/crest
 100.58072395544886,into,6_right/long/crest/into,6_left
 241.3547432388759,and,6_right/long/opens/crest/50,4_left
@@ -83,4 +83,4 @@
 12340.06241393565,opens/150
 12430.010092029695,5_left/crest/30
 12608.562842537585,5_right/long/opens/into,6_left/long
-12850,end_stage
+

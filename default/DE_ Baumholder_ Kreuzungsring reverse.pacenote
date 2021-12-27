@@ -1,5 +1,5 @@
 @author smoke
--2,start_stage
+
 16,200
 40,flat/crest/30
 59,5_right
@@ -29,4 +29,4 @@
 5241,slow/5_left/unseen/1_left
 5384,opens/50
 5432,4_right,and/120/finish/unseen/1_left/dont_cut
-5665,end_stage
+

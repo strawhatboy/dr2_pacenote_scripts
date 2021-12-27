@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,4_right,4_left,and,3_right
 65,and,2_left/long
 158,150
@@ -89,4 +89,4 @@
 6692,2_right/tightens
 6770,30/finish
 6818,turn,4_left
-6843,end_stage
+

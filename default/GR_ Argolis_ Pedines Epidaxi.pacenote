@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,100,flat_right/over_crest/jump/30,6_left,into,6_right/over_bumps
 156,into,3_left,into/slow/tightens,4_right
 277,into,6_left
@@ -61,4 +61,4 @@
 6399,over_bumps
 6509,finish
 6533,2_left/dont_cut
-6596,end_stage
+

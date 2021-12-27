@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 2,50,and,unseen,square_left
 63,160,slow,left_entry_chicane
 243,120,right_entry_chicane
@@ -31,4 +31,4 @@
 5395,120/over_crest,6_left/long,70
 5585,keep_left/over_crest/100,5_right/long/tightens
 5855,into,5_left/long/tightens
-5985,opens,end_stage
+

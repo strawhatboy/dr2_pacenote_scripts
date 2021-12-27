@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 0,6_right/100
 18,3_left
 102,150
@@ -114,5 +114,5 @@
 6826,turn
 6839,hairpin_right
 6946,50,finish,100
-7000,end_stage
+
 

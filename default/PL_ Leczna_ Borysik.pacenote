@@ -1,5 +1,5 @@
 @author 草帽不是猫	
--2,start_stage
+
 3,80,4_left/bales/dont_cut
 61,30,turn/unseen,2_left/around_bales/cobble
 195,3_right/dont_cut/outtrack,turn,1_right/tightens/around_bales/cobble
@@ -61,4 +61,4 @@
 8720,opens,into,tarmac
 8829,6_left/over_crest/long/opens/80
 8928,5_right/over_dip
-9179,end_stage
+

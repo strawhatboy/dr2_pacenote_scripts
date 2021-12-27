@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 1,60
 12,6_left/long,caution/tightens_to_2/long
 43,opens
@@ -153,6 +153,6 @@
 6813,20/over_bumps
 6868,6_right/tightens/finish
 6966,120
-6976,end_stage
+
 
 

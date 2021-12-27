@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 2,30,crest,and,3_left,long
 29,5_right,long
 61,30
@@ -119,5 +119,5 @@
 8544,30
 8694,dont_cut,6_right
 8725,small_cut,5_left,finish
-8800,end_stage
+
 

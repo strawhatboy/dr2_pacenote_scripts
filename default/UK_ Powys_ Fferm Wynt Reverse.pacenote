@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,4_left/long/dont_cut #logs
 35,slow/80
 57,crest/unseen,open_hairpin_right
@@ -89,4 +89,4 @@
 5514,opens/over_crest
 5588,finish
 5610,80
-5707,end_stage
+

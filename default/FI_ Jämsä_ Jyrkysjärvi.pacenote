@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 1,100/dip
 8,and,flat_right/over_crest
 42,80
@@ -96,6 +96,6 @@
 7012,6_right/over_crest/extra_long 
 7063,200,finish
 7119,keep_middle/over_jump
-7329,end_stage
+
 
 

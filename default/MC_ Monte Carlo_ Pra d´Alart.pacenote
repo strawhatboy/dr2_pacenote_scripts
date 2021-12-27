@@ -1,5 +1,5 @@
 @author 栗悟饭とカメハメ波
--2,start_stage
+
 3,100
 15,keep_left/into,2_right/tightens/into,3_left/long
 192,into,3_right/opens/into,4_left/long/opens/over_crest/into,3_right/tightens
@@ -136,4 +136,4 @@
 9620,80
 9647,crest/and/turn,5_right
 9755,finish/30
-9780,turn,1_left,end_stage
+

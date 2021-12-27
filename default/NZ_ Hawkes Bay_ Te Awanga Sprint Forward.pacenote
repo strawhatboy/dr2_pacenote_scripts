@@ -1,6 +1,6 @@
 @author 回家的誘いをかける
 @dynamic
--2,start_stage
+
 30,1_right
 100,widens,30
 243,1_left,narrows
@@ -55,4 +55,4 @@
 4594,6_right,into,1_left,narrows
 4719,1_right,narrows
 4770,widens,60,finish
-4798,end_stage
+

@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,5_right/long/opens/over_crest,50
 91,4_right,over_jump,into,dont_cut,4_left/long
 291,opens,over_crest,30,turn,hairpin_left
@@ -35,6 +35,6 @@
 5901,4_right/long/tightens,50,4_right/tightens
 6111,5_left/very_long/tightens_to_4/cut
 6261,into,5_right/over_crest,into,5_left/long/caution/dont_cut,finish
-6440,end_stage
+
 
 

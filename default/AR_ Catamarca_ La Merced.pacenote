@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 1,60/bumps,into,4_right/30
 82,1_right/long/opens,into,4_right
 229,into,3_left/dont_cut
@@ -34,4 +34,4 @@
 2600,into,2_left/long/tightens/over_crest/finish
 2701,30/over_jump
 2724,caution,4_left
-2776,end_stage
+

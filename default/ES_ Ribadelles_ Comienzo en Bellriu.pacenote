@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 0,6_right/100
 18,3_left
 102,150
@@ -216,6 +216,6 @@
 14175,2_left/long/tightens
 14218,into,3_right
 14249,tightens/finish
-14260,50,end_stage
+
 
 

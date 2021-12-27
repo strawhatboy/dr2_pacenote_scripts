@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 1,60,turn,unseen/hairpin_left
 52,50
 83,2_right/long/tightens
@@ -103,5 +103,5 @@
 6052,1_left
 6070,finish
 6133,into,4_right/long
-6134,end_stage
+
 

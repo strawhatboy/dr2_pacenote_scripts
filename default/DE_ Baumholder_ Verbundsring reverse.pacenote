@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 1,100
 29,slow/keep_left/over_crest/long/30,turn,hairpin_right
 199,opens
@@ -53,4 +53,4 @@
 5441,50
 5471,finish
 5504,2_left/long/tightens
-5551,end_stage
+

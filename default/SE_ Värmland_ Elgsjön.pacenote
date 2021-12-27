@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 1,4_left/extra_long/over_crest/30
 49,4_right/long/tightens
 162,into,6_left
@@ -102,6 +102,6 @@
 6762,into,caution,2_left/long
 6927,into/short,5_right/opens_to_6
 6968,extra_long/50,finish
-7055,end_stage
+
 
 

@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 2,80/crest/50
 33,flat_left/over_big_jump/50
 144,6_right/120
@@ -86,4 +86,4 @@
 6095,30
 6111,6_left/over_crest
 6168,into/deceptive,6_right,and,turn,square_left/finish
-6220,end_stage
+

@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 1,60/over_crest/unseen,square_left/dont_cut
 75,280
 164,tightens,hairpin_right/uphill
@@ -104,4 +104,4 @@
 10592,50
 10625,finish
 10650,2_left/long/tightens
-10655,end_stage
+

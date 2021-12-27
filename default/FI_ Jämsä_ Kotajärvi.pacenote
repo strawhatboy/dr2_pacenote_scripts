@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,keep_middle/over_jump
 32,flat_left
 54,caution/50
@@ -116,6 +116,6 @@
 8023,opens/80
 8107,finish
 8124,6_left
-8151,end_stage
+
 
 

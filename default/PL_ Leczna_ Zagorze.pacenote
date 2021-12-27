@@ -1,5 +1,5 @@
 @author 栗悟饭とカメハメ波
--2,start_stage
+
 0,flat/crest/50,6_right/into,6_left/over_crest/extra_long
 162,60
 222,keep_right/over_crest/caution/slow
@@ -174,4 +174,4 @@
 16245,flat/crest/50
 16293,5_right/turn,4_left/tarmac
 16456,into,6_right/finish
-16518,end_stage
+

@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 10,50,1_left/dont_cut/opens/100,right_entry_chicane
 245.595136624014,150,left_entry_chicane
 402.3263655251023,160,square_right
@@ -41,4 +41,4 @@
 5397.992822732988,opens/slow,keep_left/80/over_jump/unseen,1_left/tightens/crest
 5728.487499479538,6_right
 5751.576661574006,opens/flat/crest/into,6_left/100
-5870,end_stage
+

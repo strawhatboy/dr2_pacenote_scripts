@@ -1,6 +1,6 @@
 @author 草帽不是猫
 #Miraflores start
--2,start_stage
+
 3,60,open_hairpin_right/tightens
 48,into,1_left/extra_long
 241,into,1_right/tightens
@@ -51,4 +51,4 @@
 3278,into,4_right/30
 3321,3_left/30/finish
 #Miraflores end
-3352,end_stage
+

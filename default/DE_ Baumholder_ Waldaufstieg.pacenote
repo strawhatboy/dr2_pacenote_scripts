@@ -1,5 +1,5 @@
 @author 草帽不是猫
--2,start_stage
+
 2,50,6_left/over_crest/80
 55,5_right,over_crest,into,caution,4_left,2_right/over_crest/long
 270,jump,50,6_left,dip
@@ -31,4 +31,4 @@
 4950,opens/100
 5020,4_left/tightens,bumps/50
 5210,keep_middle/over_crest/50,turn,unseen,square_left
-5341,end_stage
+

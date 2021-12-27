@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,30
 19,3_left/long/tightens,into,3_right/long/opens/80
 173,4_left/long/tightens
@@ -144,4 +144,4 @@
 10647,2_right/tightens
 10746,30/finish
 10802,4_left
-10806,end_stage
+

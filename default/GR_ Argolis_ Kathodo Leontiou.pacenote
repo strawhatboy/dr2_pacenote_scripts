@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 3,keep_left/60,3_left/dont_cut/30/slow,6_left/long/over_crest,sudden/unseen/tightens,hairpin_right
 231,and,4_left/long/opens
 256,keep_left/60
@@ -98,4 +98,4 @@
 9274,into,6_left/long/opens/100
 9338,uphill
 9403,early,6_right/over_crest/jump,and,5_left/very_long/tightens_to_3/finish/very_long  # very early
-9666,end_stage
+

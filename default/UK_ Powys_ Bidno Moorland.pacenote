@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 1,into,5_right/over_crest
 1030,80
 19,4_left
@@ -76,4 +76,4 @@
 4752,6_right/over_crest
 4824,60/finish,4_left/long
 4864,opens/over_crest
-4881,end_stage
+

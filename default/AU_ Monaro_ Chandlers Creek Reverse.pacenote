@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 11,100
 40,through_grid  # grid
 66,6_left/very_long/over_crest/30
@@ -130,4 +130,4 @@
 12198,into,turn,square_left
 12245,opens,into,6_right/over_crest
 12291,finish
-12306,end_stage
+

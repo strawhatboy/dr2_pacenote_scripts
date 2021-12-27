@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,6_left/over_crest/long/40
 42,6_right/over_dip
 71,80
@@ -83,6 +83,6 @@
 5480,4_right/very_long/opens/dont_cut/over_crest#logs
 5602,keep_left/100
 5630,finish
-5700,end_stage
+
 
 

@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,100
 20,6_right/150
 113,keep_middle/over_jump
@@ -106,6 +106,6 @@
 6463,into,5_right
 6582,into,6_left/over_jump/maybe
 6621,50,finish
-6688,end_stage
+
 
 

@@ -1,5 +1,5 @@
 @author Zexx
--2,start_stage
+
 2,5_left,into,6_right
 44,into,6_left/over_crest/50
 84,tightens,4_left
@@ -97,4 +97,4 @@
 6442,80/finish
 6568,50
 6584,3_left
-6664,end_stage
+

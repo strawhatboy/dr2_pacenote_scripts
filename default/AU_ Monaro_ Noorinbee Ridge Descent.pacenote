@@ -1,5 +1,5 @@
 @author Silenig
--2,start_stage
+
 0.9,60,3_right/tightens,2_right
 100,into,1_left
 144,opens
@@ -59,4 +59,4 @@
 5130,into,turn,square_left
 5171,opens,into,6_right/over_crest
 5215,finish
-5237,end_stage
+

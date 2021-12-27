@@ -1,6 +1,6 @@
 @author 草帽不是猫
 # EI Rodeo start
--2,start_stage
+
 1,30,3_left/long,into,5_right/opens/over_crest
 107,30/over_bumps,4_right/long/opens/over_crest,and,bumps
 245,into,4_left,into,dont_cut,hairpin_right
@@ -37,5 +37,5 @@
 2679,3_left/long/70/over_bumps
 2792,keep_left,into,3_right/tightens
 2839,30,finish
-2845,end_stage
+
 # EI Rodeo end
