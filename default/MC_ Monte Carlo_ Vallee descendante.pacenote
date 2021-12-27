@@ -51,7 +51,7 @@
 3475,2_left/long
 3560,30
 3644,4_right,into,2_left/long/tightens
-3700!snow_clear  # snow clear now
+# 3700!snow_clear   snow clear now
 3805,5_right
 3829,into,caution,4_left/long/tightens
 3870,into,5_right

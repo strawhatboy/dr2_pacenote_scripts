@@ -55,7 +55,7 @@
 4550,into,4_left/long
 4593,into,caution,4_right/narrows
 4699,4_left
-4738!right/20  # right of 20
+4738,keep_right/20  # right of 20
 4797,6_left,into,caution,4_right,into/unseen,1_left/tightens
 4961,into,4_right
 4980,opens/140/finish

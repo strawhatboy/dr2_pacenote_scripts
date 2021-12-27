@@ -33,7 +33,7 @@
 1955,opens
 1977,6_right/over_crest/50
 2178,unseen,2_left/tightens_to_1/over_crest
-2324!snow_clear,2_right/long  # snow clears now
+2324,2_right/long  # 0^:snow clears now
 2378,slow/50
 2477,4_left/over_crest/extra_long/tightens_to_1/tightens
 2704,into,4_right/long/opens/over_crest
