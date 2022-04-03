@@ -1,4 +1,4 @@
-@author Silenig
+@author Silenig 左衛門
 
 13.92730941671644,6_left/opens/crest
 100.58072395544886,into,6_right/long/crest/into,6_left
@@ -13,10 +13,10 @@
 1552.1447899013904,and,6_right
 1623.550801941905,30,6_right/opens,keep_middle/crest,keep_right,4_left
 1820.6082599465728,150
-2036.0805497310741,4_right/into,slow,3_left/30/unseen,1_right
+2036.0805497310741,4_right/into,slow,6_left/30/unseen,1_right	# revised by 左衛門
 2304.6448824979743,opens/100/unseen,square_left
 2445.2382264557955,60
-2466.3070498634697,1_left/opens/long
+2466.3070498634697,1_left/opens,3_left/long	# revised by 左衛門
 2576.83727269226,sudden,2_right/80,1_right/long/junction
 2822.257385884828,opens/into,6_left/long/tightens,hairpin_left
 2972.8415338311665,opens/flat/crest/long/30

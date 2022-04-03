@@ -1,4 +1,4 @@
-@author 草帽不是猫
+@author 草帽不是猫 左衛門
 
 3,30,4_left/opens/50
 40,keep_right/over_jump/maybe,into,6_left/30
@@ -47,7 +47,8 @@
 4246,turn,4_left/long/tightens/30
 4386,keep_right/junction
 # 偷鸡点
-4430,into,4_left,and,4_left/outtrack,into,1_right
+# 4430,into,4_left,and,4_left/outtrack,into,1_right
+4430,into,4_left,and,3_left/dont_cut,into,1_right	# revised by 左衛門
 4674,into,6_left/50
 4724,6_right/30
 4811,3_left/very_long/opens/tightens_to_1

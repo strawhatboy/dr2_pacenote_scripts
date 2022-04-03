@@ -1,5 +1,5 @@
 @dynamic 	
-@author Meeke777
+@author Meeke777 左衛門
 48,number_30
 80,corner_1_left/detail_long/detail_tightens
 172,detail_into,corner_1_right
@@ -87,7 +87,7 @@
 5612,corner_5_right/detail_longlong
 5774,number_50
 5825,corner_6_left/detail_long,detail_downhill
-5907,detail_into,corner_6_left/detail_long,detail_keep_right
+5907,detail_into,corner_6_right/detail_long,detail_keep_right	# revised by 左衛門
 5975,number_80
 6058,corner_6_left/detail_long
 6066,number_40

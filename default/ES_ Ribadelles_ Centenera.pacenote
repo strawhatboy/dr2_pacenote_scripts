@@ -1,5 +1,5 @@
 @dynamic
-@author Meeke777
+@author Meeke777 左衛門
 22,number_50	
 73,corner_6_left	
 122,number_30	
@@ -158,7 +158,7 @@
 9967,corner_5_right/detail_longlong	
 10129,number_50	
 10180,corner_6_left/detail_long,detail_downhill	
-10262,detail_into,corner_6_left/detail_long,detail_keep_right	
+10262,detail_into,corner_6_right/detail_long,detail_keep_right	# revised by 左衛門
 10330,number_80	
 10413,corner_6_left/detail_long	
 10421,number_40	

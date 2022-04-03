@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 2,100
 20,6_right/150
@@ -67,7 +67,7 @@
 4230,60,6_right
 4402,6_left
 4421,50
-4436,3_right/long
+4436,3_left/long	# revised by 左衛門
 4469,opens/over_crest
 4672,50
 4695,crest

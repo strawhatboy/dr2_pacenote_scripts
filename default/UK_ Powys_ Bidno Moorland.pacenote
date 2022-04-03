@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,into,5_right/over_crest
 1030,80
@@ -15,7 +15,7 @@
 654,4_left/long/tightens/over_crest
 696,into,2_right/over_crest/long
 745,opens
-804,into,4_right/over_crest,into/slow,3_left/long/tightens_to_2,square_left/unseen
+804,into,4_right/over_crest,into/slow,3_left/long/tightens,and,square_left/unseen	# revised by 左衛門
 887,uphill
 1023,keep_right/50
 1043,5_right/over_big_crest

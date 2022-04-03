@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,4_right/long/opens/60/over_bumps
 48,6_left,into,5_right/over_crest
@@ -64,7 +64,7 @@
 4494,2_left/long/tightens
 4620,into,6_right
 4641,80
-4685,3_right/over_crest#logs
+4685,3_right/over_crest/logs
 4725,60
 4746,keep_middle,over_crest
 4772,and,4_right
@@ -85,7 +85,7 @@
 5941,50
 5970,turn,unseen,2_right/long/tightens
 6006,bad_camber
-6041,into,6_right
+6041,into,6_left	# revised by 左衛門
 6065,and,slow
 6086,5_right/tightens
 6110,into,turn,hairpin_left

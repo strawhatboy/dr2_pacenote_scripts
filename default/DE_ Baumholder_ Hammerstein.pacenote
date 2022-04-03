@@ -1,4 +1,4 @@
-@author Silenig
+@author Silenig 左衛門
 
 1,60
 18,flat_left/over_crest/130,turn,3_right/opens/over_crest/30
@@ -28,7 +28,7 @@
 3057,into,5_left/over_crest/long
 3104,50/keep_right,into,turn,1_left/tightens/dont_cut/30
 3323,6_right/130
-3396,crest
+3396,crest,unseen,1_left	# revised by 左衛門
 3544,50
 3576,6_right/80
 3623,slow,6_left/very_long/tightens/unseen,square_left/dont_cut

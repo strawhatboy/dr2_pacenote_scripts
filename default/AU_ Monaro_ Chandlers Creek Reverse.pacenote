@@ -55,7 +55,7 @@
 5205,5_left
 5244,into,5_right
 5317,into,5_left/long
-5416,into,5_right/long/continues/opens/over_crest/crest/30  # over double crest
+5416,into,5_right/long/continues/opens/over_double_crest/30  # over double crest
 5677,5_right/over_dip,and/jump
 5786,into,5_left/long/over_crest/tightens_to_4
 5950,into,6_right/over_crest/long/tightens_to_4/narrows

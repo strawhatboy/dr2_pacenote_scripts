@@ -139,7 +139,7 @@
 
 8805,into,2_right,long
 8852,opens
-8924,into,6_left,long,over_crest,through_gate	#over double crest
+8924,into,6_left,long,over_double_crest,through_gate	#over double crest
 8990,into,3_right,tightens
 9125,into,6_left
 9153,2_right,tightens

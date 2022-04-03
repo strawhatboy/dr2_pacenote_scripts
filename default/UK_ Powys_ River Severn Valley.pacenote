@@ -25,7 +25,7 @@
 1750,into,4_left/long
 1967,and
 1994,4_right/long/tightens_to_2
-2030#pass_logs
+2030,through_logs
 2059,30
 2131,4_left/over_crest
 2182,into,4_right/over_jump
@@ -80,7 +80,7 @@
 5197,5_right/long/over_dip,and/jump
 5282,slow/50,open_hairpin_left
 5451,100
-5480,4_right/very_long/opens/dont_cut/over_crest#logs
+5480,4_right/very_long/opens/dont_cut/over_crest/logs
 5602,keep_left/100
 5638,4_right/very_long/tightens_to_3
 5691,opens
@@ -134,7 +134,7 @@
 8766,downhill
 8902,5_right/over_crest,into,4_left
 8947,opens/60
-9062,6_left#pass_logs
+9062,6_left/through_logs
 9105,150
 9192,cobble/crest,and/jump/keep_left/40/flat/crest
 9252,6_right

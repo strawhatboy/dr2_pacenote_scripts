@@ -1,8 +1,8 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,50
 14,3_right/over_crest/long/tightens
-52,into,4_left/tightens_to_2,and,square_left
+52,into,4_left/tightens,and,square_left	# revised by 左衛門
 131,keep_right/60
 155,2_left/over_crest/tightens
 272,into,3_right/over_crest
@@ -54,7 +54,7 @@
 3311,tightens_to_3/dont_cut
 3407,keep_left/30
 3428,4_right/over_bumps
-3492,into/slow,4_left#through_logs
+3492,into/slow,4_left/through_logs
 3531,30,turn,square_left
 3652,30
 3671,4_right
@@ -71,7 +71,7 @@
 4344,and,2_right/long/tightens
 4491,into,4_left/opens/over_crest/50/over_crest,5_left/60
 4763,dont_cut,3_left/long
-4861,into,5_right/over_crest#logs
+4861,into,5_right/over_crest/logs
 4908,80
 4937,4_left
 5041,50
@@ -86,7 +86,7 @@
 5612,4_left/long/tightens/over_crest
 5654,into,2_right/over_crest/long
 5703,opens
-5762,into,4_right/over_crest,into/slow,3_left/long/tightens_to_2,square_left/unseen
+5762,into,4_right/over_crest,into/slow,3_left/long/tightens,and,square_left/unseen	# revised by 左衛門
 5845,uphill
 5981,keep_right/50
 6001,5_right/over_big_crest

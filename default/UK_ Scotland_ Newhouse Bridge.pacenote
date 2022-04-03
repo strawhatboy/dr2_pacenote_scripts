@@ -1,4 +1,4 @@
-@author o.z.
+@author O.Z. 左衛門
 
 8,6_left/opens/extra_long
 50,caution/slow,into,turn,1_right/uphill
@@ -35,7 +35,7 @@
 2284,3_left/long/dont_cut/rocks_inside
 2382,80/over_bumps/big_crest
 2459,short,6_left
-2500,into,6_right/tightens,into ,4_left/over_crest/very_long
+2500,into,6_right/tightens,into,4_right/over_crest/very_long	# revised by 左衛門
 2603,50/short,4_left/pass_junction
 2692,over_jump,into,6_right,into/late,5_left/over_crest/dont_cut
 2850,keep_right/over_jump/70/slow,into,4_right/over_crest
@@ -72,7 +72,7 @@
 4809,long,crest,and,sudden,4_left
 4882,3_right
 4928,slow,into/80
-4977,1_left
+4977,4_left	# revised by 左衛門
 5020,40,turn/early,1_left/tightens
 5144,90
 5162,keep_middle/over_crest
@@ -149,7 +149,7 @@
 10491,into,6_right/long
 10561,50
 10594,over_small_crest
-10654,70/over_bridge/over_crest/opens/long
+10654,70,4_right/over_crest/opens/long	# revised by 左衛門
 10802,keep_middle/over_crest,and,flat_left
 10897,50/logs/small_crest,into,flat_left/160,caution/jump,into/short,3_left/dont_cut
 11243,50

@@ -1,4 +1,4 @@
-@author 草帽不是猫
+@author 草帽不是猫 左衛門
 # EI Rodeo start
 
 1,30,3_left/long,into,5_right/opens/over_crest
@@ -38,6 +38,7 @@
 2792,keep_left,into,3_right/tightens/
 2839,30
 # EI Rodeo end
+# Camino de acantilados y rocas inverso start
 2908,5_left/long/tightens,into,5_right/long
 2972,30
 3137,6_left
@@ -47,7 +48,8 @@
 3433,into,6_left
 3509,50,caution,keep_right,into,1_left/tightens/narrows
 # 偷鸡点1
-3668,3_right/dont_cut/outtrack/30
+# 3668,3_right/dont_cut/outtrack/30
+3668,3_right/outtrack/30	# revised by 左衛門
 3750,5_right,into,6_left/over_bumps/30
 # 偷鸡点2
 3861,4_right/long/tightens/outtrack/60
@@ -99,3 +101,4 @@
 8060,into,3_right/opens/over_crest/30
 8143,5_right/long/over_bumps/tightens/over_crest,into,finish
 
+# Camino de acantilados y rocas inverso end

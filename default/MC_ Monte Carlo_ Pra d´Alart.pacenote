@@ -1,4 +1,4 @@
-@author 栗悟饭とカメハメ波
+@author 栗悟饭とカメハメ波 左衛門
 
 3,100
 15,keep_left/into,2_right/tightens/into,3_left/long
@@ -36,7 +36,7 @@
 2483,4_right/tightens/narrows
 2516,opens/80/over_crest
 2654,2_right/long
-2676,opens,4_left
+2676,opens,4_right	# revised by 左衛門
 2713,4_left
 2730,very_long
 2883,into/early,4_right/over_crest

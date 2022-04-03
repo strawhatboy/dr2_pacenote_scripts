@@ -1,4 +1,4 @@
-@author Silenig
+@author Silenig 左衛門
 
 2,into,3_right,into,6_left/over_crest
 72,60
@@ -48,7 +48,7 @@
 4561,keep_left/over_jump/100
 4622,6_left/long/tightens/over_crest,into,5_right/over_crest/dont_cut/120
 4820,6_right/over_crest,into,5_left/dont_cut
-4956,keep_middle/over_crest/over_crest,and/jump_maybe,into,caution/dont_cut,2_right/tightens  # over two crest
+4956,keep_middle/over_double_crest,and/jump_maybe,into,caution/dont_cut,2_right/tightens  # over two crest, revised by 左衛門
 5126,3_left/opens/100/over_crest,and/jump
 5291,finish
 5318,into,3_right

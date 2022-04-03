@@ -1,6 +1,6 @@
-@author Zexx
+@author Zexx 左衛門
 
-0,70/flat/crest
+1,70/flat/crest
 17,80
 30,6_right
 104,30
@@ -82,7 +82,7 @@
 5219,3_right/tightens
 5287,4_left
 5307,50
-5321,2_left/long/tightens/over_crest
+5321,2_right/long/tightens/over_crest	 # revised by 左衛門
 5517,into,2_left/tightens
 5556,into,2_right/long
 5587,opens
@@ -136,12 +136,12 @@
 8034,into,4_right
 8074,2_left/tightens
 8292,caution
-8314,tightens
+8314,tightens,2_right	# revised by 左衛門
 8336,2_left
 8423,keep_left/100
 8453,over_crest
 8471,6_right/long/100,and
-8504,50
+8504,150	# revised by 左衛門
 8652,5_right/cut
 8684,into,6_left
 8832,into,5_right/long

@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,100/dip
 8,and,flat_right/over_crest
@@ -50,7 +50,7 @@
 3458,into,6_left/over_bumps/crest/50
 3677,keep_middle/over_big_jump
 3702,80
-3807,5_left/over_crest/tightens_to_3
+3807,5_left/over_crest/tightens	# revised by 左衛門
 3843,dip/50
 3977,flat_right
 3994,60

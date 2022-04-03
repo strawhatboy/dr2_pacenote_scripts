@@ -1,4 +1,4 @@
-@author 草帽不是猫	
+@author 草帽不是猫 左衛門
 
 3,80,4_left/bales/dont_cut
 61,30,turn/unseen,2_left/around_bales/cobble
@@ -36,7 +36,7 @@
 4637,50,flat,crest,into,6_left/long/over_crest
 4799,into,6_right/opens/over_crest,6_left/long/over_crest/100
 5074,turn,4_right
-5125,into,5_left,into,2_left/tightens/tarmac
+5125,into,5_left,into,2_right/tightens/tarmac	# revised by 左衛門
 5489,into,5_left/caution/100,left_entry_chicane
 5679,30
 5732,turn,3_left/long/dont_cut/opens,6_left/extra_long/bumps

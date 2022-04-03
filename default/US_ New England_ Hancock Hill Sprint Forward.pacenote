@@ -1,4 +1,4 @@
-@author Silenig	
+@author Silenig 左衛門
 
 6,6_left/opens/crest
 93,into,6_right/long/crest/into,6_left
@@ -13,10 +13,10 @@
 1545,and,6_right
 1616,30,6_right/opens,keep_middle/crest,keep_right,4_left
 1813,150
-2029,4_right/into,slow,3_left/30/unseen,1_right
+2029,4_right/into,slow,6_left/30/unseen,1_right	# revised by 左衛門
 2297,opens/100/unseen,square_left
 2438,60
-2459,1_left/opens/long
+2459,1_left/opens,3_left/long	# revised by 左衛門
 2569,sudden,2_right/80,2_right/long/junction
 2815,opens/into,6_left/long/tightens,hairpin_left
 2965,opens/flat/crest/long/30

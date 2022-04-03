@@ -1,4 +1,4 @@
-@author Silenig
+@author Silenig 左衛門
 
 1,60/over_crest/unseen,square_left/dont_cut
 75,280
@@ -81,7 +81,7 @@
 7938,unseen,1_right/over_crest/tightens
 8021,200
 8116,long/flat/crest/100
-8254/unseen/dont_cut,hairpin_right
+8254,unseen/dont_cut,hairpin_right	# revised by 左衛門
 8462,into,5_left/long/50
 8555,slow/unseen,1_left/dont_cut/over_crest
 8677,into,flat_right

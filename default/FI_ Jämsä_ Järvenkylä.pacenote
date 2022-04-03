@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 2,30
 9,4_left/long
@@ -55,7 +55,7 @@
 4316,6_left/over_bumps
 4343,caution/tightens_to_3/over_crest
 4399,80
-4527,5_right/over_crest,and/jump
+4527,keep_right/over_crest,and/jump	# revised by 左衛門
 4565,6_right/over_crest
 4596,100
 4743,6_left/over_crest/jump

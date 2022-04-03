@@ -1,6 +1,6 @@
-@author Zexx
+@author Zexx 左衛門
 
-2,4_left/long/dont_cut #logs
+2,4_left/long/dont_cut/logs
 35,slow/80
 57,crest/unseen,open_hairpin_right
 233,80
@@ -35,7 +35,7 @@
 1838,70
 1951,6_left/tightens
 1974,into,3_left
-1991,long/tightens_to_3/tunnel/long
+1991,long/tightens_to_2/tunnel/long	# revised by 左衛門
 2050,crest
 2065,80
 2198,4_right/over_crest/long

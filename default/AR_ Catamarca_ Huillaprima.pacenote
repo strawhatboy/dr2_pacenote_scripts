@@ -1,4 +1,4 @@
-@author 草帽不是猫
+@author 草帽不是猫 左衛門
 
 2,6_left/long/opens,into,caution,5_right/over_crest,and,narrows,bridge,into,1_left/tightens/small_cut/30
 138,4_right/tightens
@@ -12,7 +12,8 @@
 533,50/over_bridge/narrows
 572,into,3_right/dont_cut/tightens,into,3_left/tightens
 # 偷鸡点1
-668,into,4_right/long/tightens/outtrack,into,1_left/tightens
+# 668,into,4_right/long/tightens/outtrack,into,1_left/tightens
+668,into,4_right/long/tightens/dont_cut,into,1_left/tightens	# revised by 左衛門
 758,into,1_right/long
 833,into,3_left
 866,into,1_right/dont_cut/tightens
@@ -32,7 +33,8 @@
 1883,into,2_left/tightens_to_1
 1987,into,2_right/long/opens/30
 # 偷鸡点2
-2046,2_right/long/tightens_to_1/long/outtrack
+# 2046,2_right/long/tightens_to_1/long/outtrack
+2046,2_right/long/tightens_to_1/long/dont_cut	# revised by 左衛門
 2115,50
 2167,keep_left,into,unseen,open_hairpin_left
 2236,30

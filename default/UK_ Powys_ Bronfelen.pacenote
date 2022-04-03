@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,50,6_right/over_crest/very_long/tightens
 54,into,4_left/over_crest
@@ -69,7 +69,7 @@
 4081,opens/70
 4201,early,4_left
 4231,100
-4327,6_left/over_crest#pass_logs
+4327,6_left/over_crest/through_logs
 4364,60
 4385,5_right
 4403,opens/over_crest
@@ -93,7 +93,7 @@
 5462,3_left
 5492,opens
 5504,70
-5607,keep_right/over_crest,and,4_left/long/dont_cut#logs
+5607,keep_right/over_crest,and,4_left/long/dont_cut/logs
 5671,slow/80
 5692,crest/unseen,open_hairpin_right
 5947,80
@@ -128,7 +128,7 @@
 7552,70
 7665,6_left/tightens
 7688,into,3_left
-7705,long/tightens_to_3/tunnel/long
+7705,long/tightens_to_2/tunnel/long	# revised by 左衛門
 7764,crest
 7779,80
 7912,4_right/over_crest/long

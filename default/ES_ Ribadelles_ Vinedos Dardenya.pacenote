@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 0,70/flat/crest
 17,80
@@ -82,7 +82,7 @@
 5219,3_right/tightens
 5287,4_left
 5307,50
-5321,2_left/long/tightens/over_crest
+5321,2_right/long/tightens/over_crest	 # revised by 左衛門
 5517,into,2_left/tightens
 5556,into,2_right/long
 5587,opens

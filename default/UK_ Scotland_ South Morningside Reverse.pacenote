@@ -1,7 +1,7 @@
-@author O.Z.	
+@author O.Z. 左衛門
 
 3,number_100
-30,corner_6_right,number_60
+30,corner_6_left,number_60	# revised by 左衛門
 88,number_50
 120,corner_4_right,detail_dip
 180,number_70
@@ -31,10 +31,10 @@
 1573,number_60
 1614,corner_6_right,detail_and,corner_3_right
 1690,detail_and,corner_3_left,dont_cut
-1770,corner_5_right,into,corner_3_left,into,corner_6_right
+1770,corner_5_right,into,corner_3_right,into,corner_6_right	# revised by 左衛門
 1890,number_60
 2000,corner_3_left,detail_then,number_60
-2074,corner_3_left,dont_cut,corner_6_right
+2074,corner_3_left,dont_cut,corner_6_left	# revised by 左衛門
 2190,number_100
 2235,corner_6_left
 2298,number_70
@@ -44,16 +44,16 @@
 2490,number_80
 2559,corner_3_left
 2630,number_60,detail_and,corner_4_right
-2740,corner_3_right,cut
+2740,corner_3_left,cut	# revised by 左衛門
 2815,number_70
 2846,corner_6_right,detail_into,corner_3_right
 2916,number_60
 2957,corner_5_right
-3031,corner_6_right
+3031,corner_6_left	# revised by 左衛門
 3110,number_70
 3170,corner_6_right
 3224,corner_4_right
-3320,corner_6_right,detail_logs_outside
+3320,corner_6_left,detail_logs_outside	# revised by 左衛門
 3480,corner_6_left
 3536,number_60
 3560,corner_3_left,dont_cut
@@ -79,7 +79,7 @@
 4685,corner_6_right
 4752,corner_4_left
 4809,number_50
-4825,detail_into,corner_3_left
+4825,detail_into,corner_3_right	# revised by 左衛門
 4890,number_40,detail_then,corner_3_left
 4930,corner_5_right,detail_opens
 5013,number_80
@@ -90,13 +90,14 @@
 5210,corner_5_left,number_50
 5313,detail_crest
 5363,number_80
+5410,6_right/very_long/tightens,dont_cut,3_right	# revised by 左衛門
 5460,rocks_inside
 5567,number_70
 5590,corner_4_left,detail_into,corner_3_left,small_cut
-5685,number_50
+5685,number_50,5_right	# revised by 左衛門
 5778,number_30,detail_then,corner_4_right,detail_keep_middle
 5888,number_40
-5910,detail_then,corner_4_right
+5910,detail_then,corner_4_left	# revised by 左衛門
 5956,corner_6_right
 5990,detail_into,corner_3_left,detail_and,corner_1_left
 6103,number_40
@@ -110,7 +111,7 @@
 6481,corner_4_left,detail_into
 6531,corner_4_right,detail_into
 6567,corner_4_left,detail_and
-6580,corner_2_right
+6580,corner_2_left	# revised by 左衛門
 6628,detail_into,corner_6_left
 6757,number_50,detail_into,5_right,number_60
 6850,detail_into,corner_4_right
@@ -118,7 +119,7 @@
 6942,detail_into,corner_6_right
 7020,detail_into,corner_3_left
 7112,number_200,detail_go_straight
-7196,corner_square_left,detail_brake
+7196,corner_square_left/dont_cut,detail_brake	# revised by 左衛門
 7320,corner_5_left,detail_into,corner_4_left
 7367,number_50
 7403,corner_5_right
@@ -149,7 +150,7 @@
 8990,corner_left_acute,detail_brake
 9075,corner_4_left,number_30
 9108,detail_and,corner_right_acute
-9190,number_40,detail_then,corner_6_left
+9190,number_40,detail_then,corner_6_right	# revised by 左衛門
 9223,corner_4_right
 9254,number_50
 9272,corner_3_left,detail_care
@@ -158,29 +159,29 @@
 9425,detail_into,corner_6_left
 9480,detail_into,corner_6_right
 9547,corner_3_left,detail_brake,detail_keep_left
-9661,corner_6_right
-9689,detail_then,corner_6_left
+9661,corner_6_left	# revised by 左衛門
+9689,detail_then,corner_6_right	# revised by 左衛門
 9721,number_120,flat
 9790,corner_6_right,number_40
 9856,corner_6_left,detail_care
 9889,detail_narrows
 9960,corner_6_right
 10011,number_70
-10091,corner_6_right,detail_into,corner_5_left
+10091,corner_6_left,detail_into,corner_5_right	# revised by 左衛門
 10166,corner_4_left,detail_brake
 10259,number_80
 10335,detail_then,corner_3_right,detail_uphill,detail_brake
 10390,detail_into,corner_3_left
 10460,detail_into,corner_4_right,detail_and
-10499,corner_4_left,detail_then,corner_5_left
+10499,detail_then,corner_5_left	# revised by 左衛門
 10546,number_100,detail_go_straight
 10653,detail_then,number_60
 10687,detail_then,corner_2_right
 10722,detail_and,corner_1_left,detail_keep_middle
 10840,corner_4_right,detail_and,corner_2_right,detail_rocks_inside
 10914,detail_then,corner_1_left
-10890,corner_1_left,detail_then,corner_4_left,detail_into,corner_6_left
-11064,corner_1_right,detail_over_bridge,detail_and,corner_3_right
+10890,corner_1_left,detail_then,corner_4_right,detail_into,corner_6_right	# revised by 左衛門
+11064,detail_over_bridge,detail_and,corner_3_right	# revised by 左衛門
 11134,detail_into,corner_2_right
 11182,corner_2_left,detail_keep_middle
 11222,number_60,detail_into,corner_4_right
@@ -193,7 +194,7 @@
 12023,number_80,detail_then,corner_3_right
 11990,detail_then,number_70
 12137,corner_3_left,detail_care
-12175,corner_5_right,detail_into,corner_4_left
+12175,corner_5_right,detail_into,corner_4_right	# revised by 左衛門
 12190,number_30,detail_then,corner_5_left
 12280,detail_then,corner_6_right
 12305,detail_and,corner_2_right,detail_brake

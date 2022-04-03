@@ -1,4 +1,4 @@
-@author 草帽不是猫
+@author 草帽不是猫 左衛門
 
 # Kopina start
 3,6_left/50,turn,6_right/over_crest
@@ -19,7 +19,8 @@
 1490,30
 1640,4_right/long/tightens/over_crest/50
 # 偷鸡 1
-1850,5_left/outtrack,into,6_right
+# 1850,5_left/outtrack,into,6_right
+1850,4_left/dont_cut,into,6_right	# revised by 左衛門
 1965,into,6_left/long/30
 2090,6_right/over_crest/opens/extra_long,into/slow
 2150,6_left/long/bumps
@@ -49,7 +50,7 @@
 4973,6_right/over_crest/extra_long/30
 5108,3_right/long/opens/80
 5340,5_left/over_crest/extra_long,caution/tightens_to_3
-5147,into,4_right/long
+5347,into,4_right/long	# revised by 左衛門
 5627,into,4_left
 5672,into,4_right/dont_cut/120
 5866,crest,into,5_left/tightens,into,4_right/long/junction/keep_middle
@@ -66,7 +67,7 @@
 7486,3_right/dont_cut/outtrack,turn,1_right/tightens/around_bales/cobble
 7580,30,1_right,2_left/dont_cut
 # 偷鸡 5
-7650,40,turn,3_left/outtrack/tarmac
+7650,40,turn,2_left/outtrack/tarmac	# revised by 左衛門
 7697,keep_left/160
 7766,turn,unseen,3_right/long/dont_cut/tightens_to_2
 # Kopina end
@@ -99,7 +100,7 @@
 11928,50,flat,crest,into,6_left/long/over_crest
 12090,into,6_right/opens/over_crest,6_left/long/over_crest/100
 12365,turn,4_right
-12416,into,5_left,into,2_left/tightens/tarmac
+12416,into,5_left,into,2_right/tightens/tarmac	# revised by 左衛門
 12780,into,5_left/caution/100,left_entry_chicane
 12970,30
 13023,turn,3_left/long/dont_cut/opens,6_left/extra_long/bumps

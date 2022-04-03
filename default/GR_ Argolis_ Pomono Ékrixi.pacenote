@@ -1,11 +1,11 @@
-@author 含蓄
+@author 含蓄 左衛門
 
 3,and,5_right/very_long
 47,into,6_left/over_jump
 107,80/downhill,6_right/over_dip
 208,caution,5_left/long/tightens/over_crest/keep_right/50
 396,3_left/opens/80/tightens,turn
-525,opens
+525,3_left/opens	# revised by 左衛門
 568,6_left/very_long,into/slow,4_right/extra_long/tightens,caution/30,turn,square_right
 823,50
 847,6_right/long

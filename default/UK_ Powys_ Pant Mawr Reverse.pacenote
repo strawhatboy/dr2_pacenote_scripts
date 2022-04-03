@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,30,keep_middle/over_crest,30
 35,6_right/over_crest/long/tightens_to_3
@@ -13,7 +13,7 @@
 702,50
 731,turn,unseen,2_right/long/tightens
 767,bad_camber
-802,into,6_right
+802,into,6_left	# revised by 左衛門
 826,and,slow
 847,5_right/tightens
 871,into,turn,hairpin_left

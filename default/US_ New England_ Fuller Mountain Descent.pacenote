@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 0,30
 8,6_right/over_crest/long/tightens_to_4
@@ -9,7 +9,7 @@
 293,4_left/long/opens/30
 333,4_left
 503,and
-515,5_left/extra_long/over_crest/tightens_to_2,3_left
+515,5_left/extra_long/over_crest/tightens,3_left	# revised by 左衛門
 583,opens
 732,and
 756,6_left

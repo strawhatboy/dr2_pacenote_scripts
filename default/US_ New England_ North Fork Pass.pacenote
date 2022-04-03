@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 1,50,6_left/over_crest
 36,into,6_right/over_crest/extra_long,30
@@ -41,7 +41,7 @@
 6356,keep_middle,over_crest,into,6_right,and,keep_right,200
 6661,4_right/very_long/tightens,turn,hairpin_right
 7039,into,6_left/long,into,5_right/long,into,6_left/over_crest,80
-7372,dont_cut,5_left/over_crest,into,6_left,100
+7372,dont_cut,5_left/over_crest,into,6_right,100	# revised by 左衛門
 7611,6_left
 7633,120
 7802,6_left/over_crest,into,caution,4_right/long/tightens

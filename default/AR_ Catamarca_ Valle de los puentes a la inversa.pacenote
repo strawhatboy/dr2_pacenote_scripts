@@ -1,4 +1,4 @@
-@author 草帽不是猫	
+@author 草帽不是猫 左衛門
 
 #San Isidro start
 2,60,unseen,4_left/small_cut
@@ -60,7 +60,8 @@
 4968,50/over_bridge/narrows
 5007,into,3_right/dont_cut/tightens,into,3_left/tightens
 # 偷鸡点1
-5103,into,4_right/long/tightens/outtrack,into,1_left/tightens
+# 5103,into,4_right/long/tightens/outtrack,into,1_left/tightens
+5103,into,4_right/long/tightens/dont_cut,into,1_left/tightens	# revised by 左衛門
 5193,into,1_right/long
 5268,into,3_left
 5301,into,1_right/dont_cut/tightens
@@ -80,7 +81,8 @@
 6318,into,2_left/tightens_to_1
 6422,into,2_right/long/opens/30
 # 偷鸡点2
-6481,2_right/long/tightens_to_1/long/outtrack
+# 6481,2_right/long/tightens_to_1/long/outtrack
+6481,2_right/long/tightens_to_1/long/dont_cut	# revised by 左衛門
 6550,50
 6602,keep_left,into,unseen,open_hairpin_left
 6671,30

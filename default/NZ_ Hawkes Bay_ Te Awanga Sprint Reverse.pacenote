@@ -35,7 +35,7 @@
 1875,long,tightens
 2056,into,2_right,long
 2103,opens
-2175,into,6_left,long,over_crest,through_gate	#over double crest
+2175,into,6_left,long,over_double_crest,through_gate	#over double crest
 2241,into,3_right,tightens
 2376,into,6_left
 2404,2_right,tightens

@@ -1,4 +1,4 @@
-@author Zexx
+@author Zexx 左衛門
 
 2,50
 6,5_left
@@ -37,12 +37,12 @@
 1837,into,4_right
 1877,2_left/tightens
 2095,caution
-2117,tightens
+2117,tightens,2_right	# revised by 左衛門
 2139,2_left
 2226,keep_left/100
 2256,over_crest
 2274,6_right/long/100,and
-2307,50
+2307,150	# revised by 左衛門
 2455,5_right/cut
 2487,into,6_left
 2635,into,5_right/long
